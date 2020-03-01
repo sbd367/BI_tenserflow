@@ -3,7 +3,7 @@ Python script that uses Keras/tenserflow to create, examine, and train an ANN th
 
 # Usage - windows
 1. Install Anaconda distr and create a new env with Anaconda/Python
-   1. `conda create -n tenserflow python=3.5 anaconda`
+   - `conda create -n tenserflow python=3.5 anaconda`
 2. Activate the env
    *`activate tenserflow`
 3. Install deps

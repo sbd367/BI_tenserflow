@@ -14,8 +14,8 @@ Python script that uses Keras/tenserflow to create, examine, and train an ANN th
 4. Update Pakages
    - `conda update -all`
 
-##Basic usage
-###Always run `ann.py` in your Anaconda console to build/encode the bank data before running any of the scripts in `app` dir
+## Basic usage
+### Always run `ann.py` in your Anaconda console to build/encode the bank data before running any of the scripts in `app` dir
 - `tweak.py` 
   - running this starts a series of tests via `GridSearchCV` and `KerasClassifier`. You can set your own params inside `param_grid`
 - `eval.py`

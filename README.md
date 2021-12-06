@@ -11,7 +11,7 @@ Python script that uses Keras/tenserflow to create, examine, and train an ANN th
    - `conda install mingw libpython`
    - `pip install tenserflow`
    - `pip install keras`
-4. Update Pakages
+4. Update Packages
    - `conda update -all`
 
 ## Basic usage

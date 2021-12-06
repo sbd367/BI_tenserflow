@@ -1,7 +1,7 @@
 # BI_tenserflow
 Python script that uses Keras/tenserflow to create, examine, and train an ANN that can determine which members are likely to leave a bank
 
-# Prep - windows
+# Setup
 1. Install Anaconda distr and create a new env with Anaconda/Python
    - `conda create -n tenserflow python=3.5 anaconda`
 2. Activate the env
